@@ -120,3 +120,4 @@ JabRef development is powered by YourKit Java Profiler
 
 <!-- markdownlint-disable-file MD060 -->
 
+
