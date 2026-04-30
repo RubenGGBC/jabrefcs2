@@ -4,7 +4,7 @@ plugins {
     id("org.openrewrite.rewrite") version "7.31.0"
     id("org.itsallcode.openfasttrace") version "3.1.1"
     id("org.cyclonedx.bom") version "3.2.4"
-    id("org.sonarqube") version "7.2.3.7755"
+    id("org.sonarqube") version "7.3.0.8198"
 }
 
 // OpenRewrite should rewrite all sources
